@@ -1,0 +1,5 @@
+# Compiled Python
+*.pyc
+
+# IPython
+jupyter/.ipynb_checkpoints
