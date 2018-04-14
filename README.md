@@ -2,11 +2,11 @@
 ------------------------------------------------------
 
 The ImpedanceAnalyzer is an open-source, web-based analysis platform aimed at making physics-based models as easy to use as equivalent circuits for the analysis of experimental EIS spectra.
-[This repository](https://github.com/mdmurbach/ImpedanceAnalyzer-manuscript) contains all of the data and code used in the first manuscript about the tool.
+[This repository](https://github.com/mdmurbach/ImpedanceAnalyzer-manuscript) contains all of the data and code used in the first manuscript about the tool. To cite this repository: [![DOI](https://zenodo.org/badge/109768401.svg)](https://zenodo.org/badge/latestdoi/109768401)
 
 **Please cite the following paper if you use this code:**
 
-[Murbach, M. D. & Schwartz, D. T. Analysis of Li-ion battery electrochemical impedance spectroscopy data: An easy-to-implement approach for physics-based parameter estimation using an open-source tool. Journal of The Electrochemical Society XXX, XXXX–XXX (2017).]()
+[Murbach, M. D. & Schwartz, D. T. Analysis of Li-ion battery electrochemical impedance spectroscopy data: An easy-to-implement approach for physics-based parameter estimation using an open-source tool. Journal of The Electrochemical Society 165, A297-A304 (2018).](https://dx.doi.org/10.1149/2.1021802jes)
 
 You can also cite the ImpedanceAnalyzer tool version used in this manuscript: [![DOI](https://zenodo.org/badge/75672817.svg)](https://zenodo.org/badge/latestdoi/75672817).
 
