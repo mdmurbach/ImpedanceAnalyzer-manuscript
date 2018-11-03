@@ -10,6 +10,10 @@ The ImpedanceAnalyzer is an open-source, web-based analysis platform aimed at ma
 
 You can also cite the ImpedanceAnalyzer tool version used in this manuscript: [![DOI](https://zenodo.org/badge/75672817.svg)](https://zenodo.org/badge/latestdoi/75672817).
 
+If you are interested in using the COMSOL model to simulate the linear impedance response of the P2D battery model, you may find the following paper containing the frequency-domain equations useful:
+
+[Murbach, M. D. & Schwartz, D. T. Extending Newman's Pseudo-Two-Dimensional Lithium-Ion Battery Impedance Simulation Approach to Include the Nonlinear Harmonic Response. Journal of The Electrochemical Society 164, E3311-E3320 (2017).](https://dx.doi.org/10.1149/2.0301711jes)
+
 ---------------------------
 #### Software dependencies
 ---------------------------
